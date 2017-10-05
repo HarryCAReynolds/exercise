@@ -1,1 +1,3 @@
 Edit of the newfile
+
+Another edit of the newfile
